@@ -63,7 +63,7 @@ li{
   height: 120%;
   padding: 0.6in var(--sidebar-horizontal-padding);
   background-color: #f2f2f2;
-  font-size: 8.5pt;
+  font-size: 12pt;
 }
 
 /* main */
@@ -82,7 +82,7 @@ li{
 
 #title h1{
   font-weight: 300;
-  font-size: 18pt;
+  font-size: 20pt;
   line-height: 1.5;
 }
 
@@ -107,7 +107,7 @@ li{
   /* XXX: 0.5px for aligning fx printing */
   left: calc((var(--date-block-width) + var(--decorator-horizontal-margin)));
   font-weight: 400;
-  font-size: 11pt;
+  font-size: 15pt;
   color: #555;
 }
 
@@ -240,7 +240,7 @@ li{
 }
 
 .details h3{
-  font-size: 9pt;
+  font-size: 11pt;
 }
 
 .main-block:not(.concise) .details div{
@@ -259,7 +259,7 @@ li{
 
 .details .place{
   float: left;
-  font-size: 7.5pt;
+  font-size: 8pt;
 }
 
 .details .location{
@@ -321,7 +321,7 @@ li{
 
 #sidebar h1{
   font-weight: 400;
-  font-size: 11pt;
+  font-size: 15pt;
 }
 
 .side-block{
@@ -354,7 +354,7 @@ li{
   position: absolute;
   bottom: var(--sidebar-horizontal-padding);
   right: var(--sidebar-horizontal-padding);
-  font-size: 7.5pt;
+  font-size: 8pt;
   font-style: italic;
   line-height: 1.1;
   text-align: right;
