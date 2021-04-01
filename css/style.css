@@ -1306,3 +1306,7 @@ footer .credits a {
   background-color: #eee;
   font-size: 18px;
 }
+
+iframe {
+  border: 2px solid black;
+}
